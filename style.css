@@ -6,14 +6,14 @@
     padding: 0;
   }
   #resume_container {
-    width: 8.27in;
+    width: 12in;
     height: auto;
     margin: 0 auto;
     page-break-after: auto;
   }
   @page {
-    size: A4;
-    margin: 0.5in;
+    size: 12in 14in;
+    margin: 0.1in;
   }
 }
 
