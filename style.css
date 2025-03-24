@@ -88,6 +88,36 @@
   padding-bottom: 0;
 }
 
+#articles h2 {
+  border-bottom: 3px solid #2e3b44;
+  display: block;
+  line-height: 1.3;
+  padding-bottom: 0;
+}
+
+#articles ul {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(1, auto);
+  gap: 0px;
+}
+
+#articles ul li {
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 14px;
+  text-align: start;
+  background-color: #2e3b44;
+  width: 267px;
+}
+
+#articles a {
+  color: white;
+  text-decoration: none;
+}
+
 #skills ul {
   list-style: none;
   padding: 0;
