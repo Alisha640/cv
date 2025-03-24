@@ -6,13 +6,13 @@
     padding: 0;
   }
   #resume_container {
-    width: 12in;
+    width: 13in;
     height: auto;
     margin: 0 auto;
     page-break-after: auto;
   }
   @page {
-    size: 12in 14in;
+    size: 13in 14.5in;
     margin: 0.1in;
   }
 }
@@ -118,6 +118,10 @@
   text-decoration: none;
 }
 
+.intro-link {
+  color: white;
+}
+
 #skills ul {
   list-style: none;
   padding: 0;
@@ -179,7 +183,7 @@
   border-bottom: 3px solid #2e3b44;
   display: block;
   line-height: 1.3;
-  margin-bottom: 2px;
+  margin-bottom: 12px;
   padding: 0;
 }
 
